@@ -548,7 +548,7 @@ footer .container .logo ul li {
     height: 100%;
     position: absolute;
     left: 0;
-    top: 0;
+    top: -100px;
   }
 
 
